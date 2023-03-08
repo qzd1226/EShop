@@ -8,6 +8,7 @@ class EshopCouponApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("ceshi");
     }
 
 }
