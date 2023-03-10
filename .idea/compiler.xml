@@ -13,6 +13,7 @@
         <module name="eshop-coupon" />
         <module name="eshop-product" />
         <module name="eshop-member" />
+        <module name="renren-generator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="eshop-product" target="1.8" />
       <module name="eshop-ware" target="1.8" />
       <module name="renren-fast" target="1.8" />
+      <module name="renren-generator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -33,6 +35,7 @@
       <module name="eshop-product" options="-parameters" />
       <module name="eshop-ware" options="-parameters" />
       <module name="renren-fast" options="-parameters" />
+      <module name="renren-generator" options="-parameters" />
     </option>
   </component>
 </project>
