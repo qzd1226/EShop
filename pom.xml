@@ -16,5 +16,6 @@
         <module>eshop-coupon</module>
         <module>renren-fast</module>
         <module>renren-generator</module>
+        <module>eshop-common</module>
     </modules>
 </project>

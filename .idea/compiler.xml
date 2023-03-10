@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eshop-order" />
+        <module name="eshop-common" />
         <module name="eshop-ware" />
         <module name="renren-fast" />
         <module name="eshop-coupon" />
@@ -18,13 +19,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="EShop" target="1.5" />
-      <module name="eshop-coupon" target="1.8" />
-      <module name="eshop-member" target="1.8" />
-      <module name="eshop-order" target="1.8" />
-      <module name="eshop-product" target="1.8" />
-      <module name="eshop-ware" target="1.8" />
-      <module name="renren-fast" target="1.8" />
-      <module name="renren-generator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
